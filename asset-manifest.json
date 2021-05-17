@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/caja-ritmos/static/css/main.838564eb.chunk.css",
+    "main.js": "/caja-ritmos/static/js/main.85d14cfc.chunk.js",
+    "main.js.map": "/caja-ritmos/static/js/main.85d14cfc.chunk.js.map",
+    "runtime-main.js": "/caja-ritmos/static/js/runtime-main.0e9f4b66.js",
+    "runtime-main.js.map": "/caja-ritmos/static/js/runtime-main.0e9f4b66.js.map",
+    "static/css/2.15a7a700.chunk.css": "/caja-ritmos/static/css/2.15a7a700.chunk.css",
+    "static/js/2.f69881ff.chunk.js": "/caja-ritmos/static/js/2.f69881ff.chunk.js",
+    "static/js/2.f69881ff.chunk.js.map": "/caja-ritmos/static/js/2.f69881ff.chunk.js.map",
+    "index.html": "/caja-ritmos/index.html",
+    "static/css/2.15a7a700.chunk.css.map": "/caja-ritmos/static/css/2.15a7a700.chunk.css.map",
+    "static/css/main.838564eb.chunk.css.map": "/caja-ritmos/static/css/main.838564eb.chunk.css.map",
+    "static/js/2.f69881ff.chunk.js.LICENSE.txt": "/caja-ritmos/static/js/2.f69881ff.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e9f4b66.js",
+    "static/css/2.15a7a700.chunk.css",
+    "static/js/2.f69881ff.chunk.js",
+    "static/css/main.838564eb.chunk.css",
+    "static/js/main.85d14cfc.chunk.js"
+  ]
+}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/teclas.css"],"names":[],"mappings":"AAAA,iBACI,oBACJ,CAEA,yBACI,cACI,WACJ,CACJ","file":"main.838564eb.chunk.css","sourcesContent":[".drum-pad:active{\r\n    background-color: red;\r\n}\r\n\r\n@media (min-width: 420px){\r\n    #drum-machine{\r\n        width: 400px;\r\n    }\r\n}\r\n"]}
