@@ -57,6 +57,7 @@ const StyledHeader = styled(Container)`
     width: 100%;
     font-weight: bold; 
     left: 0; 
+    font-size: 17px;
 `;
 
 const StyledFooterContainer = styled(Container)`
@@ -68,7 +69,8 @@ const StyledFooterContainer = styled(Container)`
     width: 100%;
     text-align: center; 
     font-weight: bold; 
-    left: 0; 
+    left: 0;
+    font-size: 17px; 
 `
 
 
