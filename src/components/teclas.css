@@ -7,3 +7,14 @@
         width: 400px;
     }
 }
+
+@media (min-width: 969px){
+    #display{
+        width: 25%;
+    }
+}
+
+.footer-container a{
+    color: white;
+    margin: 0 10px;
+}
